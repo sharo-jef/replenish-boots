@@ -1,18 +1,5 @@
-# Datapack template
-## Usage
-1. Change description (pack.mcmeta)
-1. Change directory name (data/namespace)
-1. Change namespace (data/minecraft/tags/functions/*.json)
+# Replenish boots
 
-### Use script
-The above operations can be automated using scripts.
+TBD
 
-#### bash
-```bash
-./setup.sh
-```
-
-#### powershell
-```powershell
-.\setup.ps1 [-Namespace <namespace>] [-Description <description>]
-```
+育った作物の上を歩くと収穫した上で自動で植えてくれる君
